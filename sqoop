@@ -1,0 +1,1 @@
+sqoop export --connect jdbc:mysql://localhost/project --username root --password 'password' --table h1 --export-dir /op123/p*
